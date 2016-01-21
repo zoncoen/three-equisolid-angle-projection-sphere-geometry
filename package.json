@@ -1,6 +1,6 @@
 {
   "name": "three-equisolid-angle-projection-sphere-geometry",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "equisolid angle projection sphere geometry for three.js",
   "main": "lib/index.js",
   "files": [

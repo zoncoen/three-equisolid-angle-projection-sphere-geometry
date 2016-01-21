@@ -1,0 +1,34 @@
+{
+  "name": "three-equisolid-angle-projection-sphere-geometry",
+  "version": "1.0.0",
+  "description": "equisolid angle projection sphere geometry for three.js",
+  "main": "lib/index.js",
+  "files": [
+    "lib"
+  ],
+  "scripts": {
+    "build": "babel src -d lib --source-maps inline",
+    "lint": "eslint src",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": {
+    "name": "Kenta Mori",
+    "email": "zoncoen@gmail.com",
+    "url": "http://github.com/zoncoen"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zoncoen/three-equisolid-angle-projection-sphere-geometry"
+  },
+  "homepage": "https://github.com/zoncoen/three-equisolid-angle-projection-sphere-geometry",
+  "bugs": {
+    "url": "https://github.com/zoncoen/three-equisolid-angle-projection-sphere-geometry/issues"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "babel-cli": "^6.4.5",
+    "babel-eslint": "^4.1.6",
+    "babel-preset-es2015": "^6.3.13",
+    "eslint": "^1.10.3"
+  }
+}
